@@ -9,6 +9,7 @@ An attribute-based access controlled chaincode backend for a voting application.
 
 - Golang 1.22.1
 - Hyperleldger Fabric Contract API v1.2.2
+- LevelDB
 - Docker
 
 
